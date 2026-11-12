@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="One repo. Four working tools.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#1E293B"/></linearGradient>
+    <linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1060" cy="40" r="180" fill="#2563EB" opacity=".18"/>
+  <text x="64" y="70" font-family="ui-monospace,Menlo,monospace" font-size="20" fill="#94A3B8">~/CLAUDE  ·  branch: resume-site</text>
+  <text x="64" y="160" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="68" font-weight="700" fill="#F1F5F9">One repo.</text>
+  <text x="64" y="240" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="68" font-weight="700" fill="#F1F5F9">Four <tspan fill="url(#tx)">working</tspan> tools.</text>
+</svg>
