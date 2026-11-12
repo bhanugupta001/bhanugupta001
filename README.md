@@ -15,7 +15,7 @@
 
 ## Measured results
 
-| | | |
+| Result | What changed | Where |
 |:--:|---|---|
 | **85–90%** | Smaller page weight, 10 MB down to 1 MB | AND Academy |
 | **59.9%** | Lower cost per result with Meta Conversions API | AND Academy |
