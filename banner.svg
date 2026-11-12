@@ -4,7 +4,8 @@
     <linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
   </defs>
   <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <circle cx="1060" cy="40" r="180" fill="#2563EB" opacity=".18"/>
+  <clipPath id="c"><rect width="1200" height="320" rx="24"/></clipPath>
+  <circle cx="1060" cy="40" r="180" fill="#2563EB" opacity=".18" clip-path="url(#c)"/>
   <text x="64" y="70" font-family="ui-monospace,Menlo,monospace" font-size="20" fill="#94A3B8">Senior Manager, Web Development  ·  16 years  ·  Greater Noida West, India</text>
   <text x="64" y="150" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="64" font-weight="700" fill="#F1F5F9">Bhanu Gupta</text>
   <text x="64" y="220" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="34" font-weight="500" fill="#CBD5E1">I build websites, the systems behind them,</text>
